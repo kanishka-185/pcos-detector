@@ -2,6 +2,8 @@
 
 A Machine Learning app that predicts the risk of Polycystic Ovary Syndrome (PCOS) using symptom-based features.
 
+Click here to try it : https://pcos-detector.streamlit.app/
+
 ## 🔍 Features Used
 - Age, Weight, BMI
 - Irregular cycles
