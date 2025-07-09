@@ -4,6 +4,10 @@ A Machine Learning app that predicts the risk of Polycystic Ovary Syndrome (PCOS
 
 Click here to try it : https://pcos-detector.streamlit.app/
 
+## 📓 Project Notebook
+
+[View the full Google Colab notebook](https://colab.research.google.com/drive/1AbZAWP6nwoY2wwCtSYIJ8uDNASa6TwH3?usp=sharing)
+
 ## 🔍 Features Used
 - Age, Weight, BMI
 - Irregular cycles
